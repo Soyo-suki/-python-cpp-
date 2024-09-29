@@ -1,0 +1,12 @@
+
+    {
+        "number1":"",  //输入账号
+        "password1":"",  //输入密码
+        "number2":"",  //可输入个账号密码同时抢票
+        "password2":"",
+        "number3":"",
+        "password3":"",
+        "event_url":"https://cp.allcpp.cn/#/ticket/detail?event=1729",//活动的抢票网址
+        "ticket_type":"10月6日 普通票"//票的类型
+    }
+
